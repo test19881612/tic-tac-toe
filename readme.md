@@ -2,6 +2,6 @@
 ## hi this is pk  
 
 ```
-def test():
-   print("hello")
+def test(a, b):
+   return a+b
 ```
